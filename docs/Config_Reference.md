@@ -1,7 +1,7 @@
 # Configuration Reference 🔧
 
 Doc Version: 0.9.0 📅
-Last Updated: 2025-10-03 🕒
+Last Updated: October 3, 2025 🕒
 
 ## Overview 📖
 This document describes the script-only configuration model. All settings live in the **USER CONFIGURATION BLOCK** within `hostflow.sh`.

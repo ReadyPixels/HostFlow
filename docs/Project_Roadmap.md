@@ -1,7 +1,7 @@
 # 🗺️ Project Roadmap
 
 **Doc Version:** 0.9.0  
-**Last Updated:** 2025-10-03
+**Last Updated:** October 3, 2025
 
 ## 🏁 Milestones
 
